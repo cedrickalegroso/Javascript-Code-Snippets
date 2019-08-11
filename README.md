@@ -10,4 +10,4 @@ Website:  https://www.itsdancedrick.github.io/githubsite  <br /><br />
 <br />
 Check my Apps!<br />
 SpaceX archive: https://spacex-archive.web.app/
-# Javascript-Code-Snippets
+
